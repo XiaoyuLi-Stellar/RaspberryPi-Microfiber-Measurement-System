@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="images">
+    <file>ca.png</file>
+    <file>dis.png</file>
+    <file>folder.png</file>
+    <file>h.png</file>
+    <file>icon.png</file>
+    <file>l.png</file>
+    <file>start.png</file>
+    <file>stop(1).png</file>
+    <file>stop.png</file>
+    <file>v.png</file>
+  </qresource>
+</RCC>
